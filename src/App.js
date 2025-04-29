@@ -243,7 +243,8 @@ function App() {
   return (
     <Container>
       <Header>
-        <Logo>DevLand</Logo>
+        <Logo>Dévelo </Logo>
+
         <Nav>
           <ul>
             <li><a href="#accueil">Accueil</a></li>
